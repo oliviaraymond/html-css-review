@@ -1,0 +1,17 @@
+
+html {
+max-width:960px;
+margin: auto;
+}
+h1 {
+text-align: center;
+color: white;
+font-size: 72px;
+font-family: 'Lato', sans-serif;
+font-weight: 100;
+background-color: rgba(255,99,71,0.5);
+width: auto;
+padding: 15px;
+margin: 20px;
+
+}
