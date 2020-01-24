@@ -37,6 +37,11 @@ li,ul{
   list-style-position: inherit;
   /* text-decoration: center; */
 }
+img{
+display: inline-flex;
+  border-radius: 0;
+  border: 2px solid #E9CEDC;
+}
 footer {
   background-color: rgba(250,99,71,0.1);
   color: #222;
