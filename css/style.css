@@ -74,10 +74,13 @@ font-size: 30px;
 .Directions {
   grid-column: 3;
  grid-row: 2;
+ padding: 0px;
 }
 
 .Info{
   grid-column: 1;
 grid-row: 2;
 background-color: rgb(248, 244, 246);
+padding-left: 50px;
+ padding-right: 50px;
 }
